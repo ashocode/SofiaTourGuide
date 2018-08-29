@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sofia Tour Guide</string>
+    <string name="main_background_image">main background image</string>
+    <string name="tap_anywhere_to_start_the_tour">Tap anywhere to start the tour!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

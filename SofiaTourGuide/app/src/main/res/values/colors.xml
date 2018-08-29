@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0097A7</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="themeTextColor">#E0F7FA</color>
+    <color name="light_tint_color">#60000000</color>
+    <color name="textSelectedColor">#26C6DA</color>
+
+</resources>
